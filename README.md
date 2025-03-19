@@ -1,2 +1,4 @@
 # First reprosetry
- its my first reprosetry
+ Its my first Git reprosetry
+ <br>
+ Author: Azan Pirzada
